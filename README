@@ -1,7 +1,7 @@
 # Risk Profile Calculator API
 
 This project comprises in a demonstration of a risk profile calculator.
-The features can be called through a API.
+The features can be called through an API.
 The solution is made up Python 3, Flask, Flask-RestX, Flask-SQLAlchemy, PyTest, Swagger and Docker.
 In order to provide a decoupled an extensible code, the business rules were developed using the Rule Pattern.
 
